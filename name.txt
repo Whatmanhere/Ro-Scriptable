@@ -1,1 +1,1 @@
-Ro-Scriptable 1.0.0.a
+1.0.0.a
